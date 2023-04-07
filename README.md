@@ -1,1 +1,1 @@
-# wilipediabot
+# simple wikipedia bot
